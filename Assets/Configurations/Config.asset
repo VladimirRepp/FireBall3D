@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e9d32667695f9b4daea2ae87ebdf335, type: 3}
+  m_Name: Config
+  m_EditorClassIdentifier: 
+  _configs:
+  - SizeTower: 10
+    PatternObstacleIndex: 0
+    DurationAnimationObstacle: 3
+  - SizeTower: 15
+    PatternObstacleIndex: 0
+    DurationAnimationObstacle: 2
+  - SizeTower: 20
+    PatternObstacleIndex: 0
+    DurationAnimationObstacle: 1
+  - SizeTower: 22
+    PatternObstacleIndex: 1
+    DurationAnimationObstacle: 2.5
+  - SizeTower: 25
+    PatternObstacleIndex: 1
+    DurationAnimationObstacle: 1.5
+  - SizeTower: 25
+    PatternObstacleIndex: 2
+    DurationAnimationObstacle: 3
+  - SizeTower: 30
+    PatternObstacleIndex: 2
+    DurationAnimationObstacle: 2
